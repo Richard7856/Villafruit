@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1034076506520",
+    "project_id": "villafruit-c6a1d",
+    "storage_bucket": "villafruit-c6a1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034076506520:android:5be028bfcb3a11d45e43ed",
+        "android_client_info": {
+          "package_name": "com.mycompany.villafruit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034076506520-t28hp5kaefnvdrd27ilhathd47mhv0f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGWSQWEPll-bAfJztsrfWGepxukO9C8lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034076506520-t28hp5kaefnvdrd27ilhathd47mhv0f5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034076506520-5elbcg8d8q4fub22hm9sfs5hngrsmcij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.villafruit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
